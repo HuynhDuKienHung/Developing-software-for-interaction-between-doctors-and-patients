@@ -1,1 +1,1 @@
-# Developing-software-for-controlling-the-interaction-between-doctors-and-patients - IN PROGRESS
+# Developing-software-for-interaction-between-doctors-and-patients - IN PROGRESS
